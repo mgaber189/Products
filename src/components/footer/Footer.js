@@ -5,7 +5,7 @@ import { MdEmail, MdPhone, MdWeb } from "react-icons/md";
 
 function Footer() {
   return (
-    <footer className="bg-gray-50 text-gray-800 border-t border-gray-200 fixed bottom-0 left-0 right-0">
+    <footer className="bg-gray-50 text-gray-800 border-t border-gray-200">
       <div className="max-w-fit mx-auto px-6 py-12">
         {/* Main Footer Content */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-10 mb-12">
