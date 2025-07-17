@@ -1,0 +1,58 @@
+
+React Product Task
+==================
+
+This is a React.js application developed by Mohamed Gaber that displays a list of products with category filters, pagination, and a shopping cart. The project uses Redux Toolkit, Tailwind CSS, and a fake API for demonstration purposes.
+
+-----------------------------
+How to Run the Project Locally
+-----------------------------
+
+1. Clone the repository:
+
+   git clone https://github.com/mgaber189/Products.git
+   cd Products
+
+2. Install dependencies:
+
+   npm install
+
+3. Run the development server:
+
+   npm start
+
+   Now open http://localhost:3000 in your browser.
+
+-----------------------------
+Build for Production
+-----------------------------
+
+npm run build
+
+-----------------------------
+Tech Stack
+-----------------------------
+
+- React.js (Functional Components & Hooks)
+- Redux Toolkit (for global cart state)
+- Tailwind CSS (for UI)
+- Axios (for API calls)
+- React Router (for navigation)
+
+-----------------------------
+Features
+-----------------------------
+
+- Category Filter
+- Pagination
+- Shopping Cart (Add, remove, update quantity)
+- Responsive Design
+
+-----------------------------
+Contact
+-----------------------------
+
+Developer: Mohamed Gaber
+Email: mg3845617@gmail.com
+phone:01125992923
+
